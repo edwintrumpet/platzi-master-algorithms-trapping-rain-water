@@ -1,0 +1,26 @@
+{
+  "name": "trapping-rain-water",
+  "version": "1.0.0",
+  "description": "Algorithm that calculates the amount of trapped water given an array that represents the height on a topographic map.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algorithms",
+    "javascript",
+    "sort",
+    "merge sort"
+  ],
+  "author": "Edwin García <spark.com.co@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwintrumpet/platzi-master-algorithms-trapping-rain-water.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edwintrumpet/platzi-master-algorithms-trapping-rain-water/issues"
+  },
+  "homepage": "https://github.com/edwintrumpet/platzi-master-algorithms-trapping-rain-water#readme"
+}
